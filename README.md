@@ -241,7 +241,7 @@ CHRONOS{gr0up_p3rm5_0n_cr0n_4r3_d4ng3r0us}
 
 ---
 
-**Pwned by:** *Aditya Bhatt*
-*Top 2% TryHackMe | VAPT Specialist | Occasional Menace* 🗿
+**Pwned by:** *Aditya Bhatt* <br/>
+*Top 2% TryHackMe | VAPT Specialist | Occasional Menace* 🗿 <br/>
 
 ---
