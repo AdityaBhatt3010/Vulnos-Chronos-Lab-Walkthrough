@@ -3,7 +3,8 @@
 **Date:** 24 August 2025 <br/>
 **Target:** VulnOS: Chronos <br/>
 **IP:** `10.0.128.13` (My Target IP in this Walkthrough) <br/>
-**Difficulty:** Medium (but fun to chain 😈)
+**Difficulty:** Medium (but fun to chain 😈) <br/>
+**Lab link:** https://learn.vulnos.tech/lab/environment.html?id=63  <br/>
 
 ![Coverr](https://github.com/user-attachments/assets/059236c4-6e60-4223-bc62-bca2b1198c26) <br/>
 
