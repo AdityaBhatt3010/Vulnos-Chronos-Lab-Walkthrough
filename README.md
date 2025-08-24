@@ -5,7 +5,7 @@
 **IP:** `10.0.128.13` (My Target IP in this Walkthrough) <br/>
 **Difficulty:** Medium (but fun to chain 😈)
 
-<img width="532" height="460" alt="Cover" src="https://github.com/user-attachments/assets/72b50009-02a4-4c2f-9b22-1ddd0169c191" /> <br/>
+![Coverr](https://github.com/user-attachments/assets/059236c4-6e60-4223-bc62-bca2b1198c26) <br/>
 
 ---
 
